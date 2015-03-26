@@ -39,12 +39,6 @@
     <Reference Include="KellermanSoftware.Compare-NET-Objects">
       <HintPath>..\packages\CompareNETObjects.3.02.0.0\lib\net451\KellermanSoftware.Compare-NET-Objects.dll</HintPath>
     </Reference>
-    <Reference Include="log4net">
-      <HintPath>..\packages\log4net.2.0.3\lib\net40-full\log4net.dll</HintPath>
-    </Reference>
-    <Reference Include="Ninject">
-      <HintPath>..\packages\Ninject.3.2.2.0\lib\net45-full\Ninject.dll</HintPath>
-    </Reference>
     <Reference Include="NUnit.Asserts.Compare">
       <HintPath>..\packages\NUnit.Asserts.Compare.0.2.1\lib\net45\NUnit.Asserts.Compare.dll</HintPath>
     </Reference>
@@ -62,12 +56,6 @@
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Data" />
     <Reference Include="System.Xml" />
-    <Reference Include="Utilities">
-      <HintPath>..\packages\Utilities.2.0.7\lib\net45\Utilities.dll</HintPath>
-    </Reference>
-    <Reference Include="Utilities.Logging">
-      <HintPath>..\packages\Utilities.Logging.1.0.2\lib\net45\Utilities.Logging.dll</HintPath>
-    </Reference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AverageExchangeRateTests.cs" />
