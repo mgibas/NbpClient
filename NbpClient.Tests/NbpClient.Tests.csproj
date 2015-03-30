@@ -68,16 +68,15 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\NbpClient\NbpClient.csproj">
-      <Project>{b3795563-59f6-453a-8e93-e300696af49d}</Project>
-      <Name>Utilities.NbpClient</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <None Include="app.config" />
     <None Include="packages.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\NbpClient\NbpClient.csproj">
+      <Project>{b3795563-59f6-453a-8e93-e300696af49d}</Project>
+      <Name>NbpClient</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
