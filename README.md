@@ -7,6 +7,9 @@
     <a href="https://www.gitcheese.com/app/#/projects/a15dafcc-ff41-4f50-864d-5441511d3859/pledges/create">
         <img src="https://api.gitcheese.com/v1/projects/a15dafcc-ff41-4f50-864d-5441511d3859/badges"></img>
     </a>
+    <a href="https://www.nuget.org/packages/NbpClient/">
+        <img src="https://img.shields.io/nuget/v/NbpClient.svg?style=flat-square"></img>
+    </a>
 </p>
 
 ===
