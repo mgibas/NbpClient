@@ -4,8 +4,8 @@
     <a href="https://ci.appveyor.com/project/mgibas/nbpclient/branch/master">
         <img src="https://ci.appveyor.com/api/projects/status/github/mgibas/nbpclient?branch=master&svg=true"></img>
     </a>
-    <a href="https://www.gitcheese.com/app/#/projects/a15dafcc-ff41-4f50-864d-5441511d3859/pledges/create">
-        <img src="https://api.gitcheese.com/v1/projects/a15dafcc-ff41-4f50-864d-5441511d3859/badges"></img>
+    <a href="https://www.gitcheese.com/donate/users/530319/repos/32922611">
+        <img src="https://s3.amazonaws.com/gitcheese-ui-master/images/badge.svg"></img>
     </a>
     <a href="https://www.nuget.org/packages/NbpClient/">
         <img src="https://img.shields.io/nuget/v/NbpClient.svg?style=flat-square"></img>
